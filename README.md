@@ -7,25 +7,10 @@
 * **Building on BNB** - BNB Chain Tutorials - [link](https://github.com/bnb-chain/bnb-chain-tutorial) 
 * **BNB Docs** - BNB Chain Official documentation - [link](https://docs.bnbchain.org/docs/bnbIntro)
 
-# AvengerDao Cybersecurity challenge
-
-Problem Statement:
-Your mission, should you accept, is to protect BNB chain users from scams, rug pulls and bad actors with the use of the brand new AvengerDao security monitoring API system. 
-
-Help build a safer BNB chain by creating a dapp, integration or a creative implementation using the brand new AvengerDao security monitoring and scanning tool api, alongside BNB’s token, NFTs or any part of the BNB ecosystem, in order to create awareness, protection and safeguards for those interacting with BNB blockchain.
-
-Be creative and unique! Projects can explore use cases in web3, DeFi, DAOs, Dapps, GameFi and even others! Get started with building on the BNB chain by following this link to a few simple tutorials, more tutorials will be provided during the event. https://github.com/bnb-chain/bnb-chain-tutorial/
-
-Top 3 Prizes - $5k in total:
-
-Champion: $2500
-
-First runner-up: $1500
-
-Second runner-up: $1000
+# MIT Hack challenge
 
 ##Challenge Requirement:
-Projects must be built with AvengerDao api to be considered, but can be combined with any other available tools, ecosystems and tokens.
+
 
 
 ##Judging Criteria
