@@ -13,8 +13,8 @@
 
 ---
 
-
-
+# We will also be having a workshop on Music, entertainment on BNB at 3pm
+---
 ## MIT Hack challenge
 
 Help musicians, digital creators, independent artist become more competitive and successful by building technologies using tools such as NFTs, and Avenger Dao, on the bnb chain that will help them monitize their work and efforts by allowing them to connect to fans, communities and patrons, quick easier and more directly.
@@ -242,4 +242,4 @@ in our case.
 ![image](https://user-images.githubusercontent.com/93580180/177949365-52efd22c-25ac-4eac-b47e-82349d6b0a5c.png)
 
 ## Conclusion 
-In this tutorial, we provided a step-to-step guide on how to issue, mint and transfer NFTs on the BSC Testnet using the BlackIDE from Obsidian Labs.. The technology stack used in this tutorial includes Solidity, Truffle, MetaMask, and BlackIDE. Check out our [GitHub](https://github.com/bnb-chain/bnb-chain-tutorial) for more tutorials on how to develop on BSC. If you have any questions or are stuck, reach out to us on our [Discord Channel](https://discord.com/channels/789402563035660308/912296662834241597).
+In this tutorial, we provided a step-to-step guide on how to issue, mint and transfer NFTs on the BSC Testnet using the BlackIDE from Obsidian Labs.. The technology stack used in this tutorial includes Solidity, Truffle, MetaMask, and BlackIDE. Check out our [GitHub](https://github.com/bnb-chain/bnb-chain-tutorial) for more tutorials on how to develop on BSC. If you have any questions or are stuck, reach out to us on our Discord Channel.
