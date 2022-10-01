@@ -17,9 +17,9 @@
 
 ## MIT Hack challenge
 
-The challenge with the existing data indexing protocol is the turnaround time to fetch the data, process data, and visualize it. This problem is quite evident, especially for NFTs where users require real-time, fast, reliable information to decide to flip them.  
+Help musicians, digital creators, independent artist become more competitive and successful by building technologies using tools such as NFTs, and Avenger Dao, on the bnb chain that will help them monitize their work and efforts by allowing them to connect to fans, communities and patrons, quick easier and more directly.
 
-A potential solution could be using deep learning models to learn from the existing data and use pattern recognition to predict a probable state of the chain that the user might use to decide in time. The visualization of this data is critical for a sleek user experience.
+We will be selecting three projects for first, second and third places, in the innovations and entertainment categories. Please check the git hub for judging criteria.
 
 Try combining this with our Avengerdao security API in order to help protect BNB users as well as quickly trade NFTs and other Music and Art related digital assets on the BNB chain.
 
