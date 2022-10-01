@@ -23,7 +23,7 @@ A potential solution could be using deep learning models to learn from the exist
 
 Try combining this with our Avengerdao security API in order to help protect BNB users as well as quickly trade NFTs and other Music and Art related digital assets on the BNB chain.
 
-
+---
 
 ##Judging Criteria
 
