@@ -1,15 +1,27 @@
 
 # Helpful links on Building with BNB
+---
 
-
-* **AvengerDao Website** - [link](https://www.pipsr.cloud/) 
+* **AvengerDao Website** - [link](https://www.avengerdao.org/) 
 * **Building on BNB** - Helpful links and resources - [link](https://github.com/ilya0/BNB_HackBoston_Workshop/blob/main/Helpful%20links%20and%20Resources%20-%20Easy%20A%20_%20Boston%20Hacks%20-%20Hacker%20Resource.pdf) 
 * **Building on BNB** - BNB Chain Tutorials - [link](https://github.com/bnb-chain/bnb-chain-tutorial) 
 * **BNB Docs** - BNB Chain Official documentation - [link](https://docs.bnbchain.org/docs/bnbIntro)
+* **BNB Discord** - BNB Discord - [link](https://discord.gg/TPSWv2Cs4T)
+* **BNB Avenger Dao Help** - BNB Avenger Dao Help channel - [link](https://discord.com/channels/789402563035660308/1023682873884168252)
+* **BNB Hackthon Help** - BNB Hackathon Help Channel - [link](https://discord.com/channels/789402563035660308/1025601865687248947)
 
-# MIT Hack challenge
 
-##Challenge Requirement:
+---
+
+
+
+## MIT Hack challenge
+
+The challenge with the existing data indexing protocol is the turnaround time to fetch the data, process data, and visualize it. This problem is quite evident, especially for NFTs where users require real-time, fast, reliable information to decide to flip them.  
+
+A potential solution could be using deep learning models to learn from the existing data and use pattern recognition to predict a probable state of the chain that the user might use to decide in time. The visualization of this data is critical for a sleek user experience.
+
+Try combining this with our Avengerdao security API in order to help protect BNB users as well as quickly trade NFTs and other Music and Art related digital assets on the BNB chain.
 
 
 
@@ -36,7 +48,7 @@ Has the project pushed the boundaries of what can be done in the blockchain and 
 
 
 
-# Avenger Dao Consumer API Request
+## Avenger Dao Consumer API Request
 
 Requesting information about a specific contract or entity can d be found by using this commmand in terminal or api application such as postman
 
@@ -47,11 +59,11 @@ More information on the consumer API and the Json information can be found here 
 
 
 
-# Building on BNB NFTs workshop
+## Building on BNB NFTs workshop - Using Black IDE to Deploy NFTs on BSC testnet
 
 
 
-## _Using Black IDE to Deploy NFTs on BSC testnet_
+
 
 In this tutorial, we provide a step-by-step guide to the readers on how to issue Non-fungible tokens (NFTs) (ERC721/1155) on the BNB Smart Chain (BSC) Testnet using the Black IDE. This is a detailed guide to learning how to issue, mint and transfer NFTs on the BSC Testnet. The technology stack used in this tutorial includes Solidity , Truffle, MetaMask, and BlackIDE. 
 
