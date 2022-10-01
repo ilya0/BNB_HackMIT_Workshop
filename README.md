@@ -25,7 +25,7 @@ Try combining this with our Avengerdao security API in order to help protect BNB
 
 ---
 
-##Judging Criteria
+## Judging Criteria
 
 Judges will be onsite to interview and explore ideas, implementation and projects. Projects will be graded on a 1-10 scale using the following criteria and may change slightly before the event.
 
